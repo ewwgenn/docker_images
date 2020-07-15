@@ -1,0 +1,1 @@
+FROM reg.travelata.lan:5000/travelata/composer
